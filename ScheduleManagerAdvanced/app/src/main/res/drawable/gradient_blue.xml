@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <bitmap android:src="@drawable/button_blue_button"/>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <gradient
+                android:angle="90"
+                android:startColor="#194862"
+                android:centerColor="#1f5c7b"
+                android:endColor="#318abb"/>
+        </shape>
+    </item>
+</layer-list>

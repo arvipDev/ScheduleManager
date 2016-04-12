@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Schedule Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_showdate">Medium Text</string>
+    <string name="b_selectdate">Select date</string>
+    <string name="title_activity_schedules">Schedules</string>
+    <string name="tv_date">Date</string>
+    <string name="tv_time">Time</string>
+    <string name="tv_description">Description</string>
+    <string name="b_addschedule">Create Event</string>
+    <string name="title_activity_view_list">ViewList</string>
+    <string name="title_activity_detail_schedule">Create events</string>
+
+
+
+    <string name="tv_addeddate">Date</string>
+    <string name="tv_addedtime">Time</string>
+    <string name="b_finish">Add events</string>
+    <string name="b_picktime">Pick events time</string>
+    <string name="b_pickdate">Pick events date</string>
+    <string name="title_activity_detailed_view">Detailed_view</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_event_details">Event Details</string>
+    <string name="tv_ed_date">Date</string>
+    <string name="tv_ed_time">Time</string>
+    <string name="tv_ed_displayDate" />
+    <string name="tv_ed_displayTime" />
+    <string name="tv_ed_description">Description</string>
+    <string name="tv_ed_displayDescription" />
+    <string name="b_ed_updateEvent">Update Event</string>
+    <string name="b_ed_deleteEvent">Delete Event</string>
+
+    <string name="action_example">Example action</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="title_activity_edit_event">EditEvent</string>
+    <string name="title_activity_demo">DemoActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="b_availability">Check Availability</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_add">Try this</string>
+    <string name="drawer_title">Welcome</string>
+    <string name="et_description_text">ADD DESCRIPTION</string>
+    <string name="b_ed_share_text">share events</string>
+
+</resources>

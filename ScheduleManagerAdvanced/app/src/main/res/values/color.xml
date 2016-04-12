@@ -1,0 +1,88 @@
+<resources>
+
+    <color name="text_color">#8e929d</color>
+    <color name="background_button_color">#6d717c</color>
+    <color name="background_layout_color">#d9dde8</color>
+    <color name="spcial_buttons">#FFE8284F</color>
+    <color name="material_blue_grey_800">#000000</color>color>
+
+
+    <!-- Themes
+        MainActivity
+
+        Theme 1 -->
+     <color name="theme_one_main_activity_background_layout_color">#e0e0e0</color>
+     <color name="theme_one_main_activity_listview_color">#888888</color>
+     <color name="theme_one_main_activity_button_color">#636363</color>
+     <color name="theme_one_main_activity_drawer_layout_color">#636363</color>
+     <color name="theme_one_main_activity_drawer_navlist_color">#e0e0e0</color>
+
+    <color name="theme_one_drawer_background_layout_color">#e0e0e0</color>
+    <color name="theme_one_drawer_title_color">#000000</color>
+    <color name="theme_one_drawer_subtitle_color">#000000</color>
+
+    <color name="theme_one_item_view_date_color">#000000</color>
+    <color name="theme_one_item_view_time_color">#000000</color>
+    <color name="theme_one_item_view_description_color">#000000</color>
+
+    <!-- Theme 2 -->
+    <color name="theme_two_main_activity_background_layout_color">#ffc8d0</color>
+    <color name="theme_two_main_activity_listview_color">#87445a</color>
+    <color name="theme_two_main_activity_button_color">#87445a</color>
+    <color name="theme_two_main_activity_drawer_layout_color">#87445a</color>
+    <color name="theme_two_main_activity_drawer_navlist_color">#ffc8d0</color>
+
+    <color name="theme_two_drawer_background_layout_color">#ffc8d0</color>
+    <color name="theme_two_drawer_title_color">#ffffff</color>
+    <color name="theme_two_drawer_subtitle_color">#ffffff</color>
+
+    <color name="theme_two_item_view_date_color">#ffffff</color>
+    <color name="theme_two_item_view_time_color">#ffffff</color>
+    <color name="theme_two_item_view_description_color">#ffffff</color>
+
+    <!-- Theme 3 -->
+    <color name="theme_three_main_activity_background_layout_color">#cde8ff</color>
+    <color name="theme_three_main_activity_listview_color">#3e87bf</color>
+    <color name="theme_three_main_activity_button_color">#366e9e</color>
+    <color name="theme_three_main_activity_drawer_layout_color">#366e9e</color>
+    <color name="theme_three_main_activity_drawer_navlist_color">#cde8ff</color>
+
+    <color name="theme_three_drawer_background_layout_color">#cde8ff</color>
+    <color name="theme_three_drawer_title_color">#000000</color>
+    <color name="theme_three_drawer_subtitle_color">#000000</color>
+
+    <color name="theme_three_item_view_date_color">#000000</color>
+    <color name="theme_three_item_view_time_color">#000000</color>
+    <color name="theme_three_item_view_description_color">#000000</color>
+
+    <!-- Theme 4 -->
+    <color name="theme_four_main_activity_background_layout_color">#d0ffa0</color>
+    <color name="theme_four_main_activity_listview_color">#1b7c1c</color>
+    <color name="theme_four_main_activity_button_color">#116310</color>
+    <color name="theme_four_main_activity_drawer_layout_color">#116310</color>
+    <color name="theme_four_main_activity_drawer_navlist_color">#d0ffa0</color>
+
+    <color name="theme_four_drawer_background_layout_color">#d0ffa0</color>
+    <color name="theme_four_drawer_title_color">#000000</color>
+    <color name="theme_four_drawer_subtitle_color">#000000</color>
+
+    <color name="theme_four_item_view_date_color">#000000</color>
+    <color name="theme_four_item_view_time_color">#000000</color>
+    <color name="theme_four_item_view_description_color">#000000</color>
+
+    <!-- Theme 5 -->
+    <color name="theme_five_main_activity_background_layout_color">#ffb399</color>
+    <color name="theme_five_main_activity_listview_color">#a81410</color>
+    <color name="theme_five_main_activity_button_color">#be1a1d</color>
+    <color name="theme_five_main_activity_drawer_layout_color">#a81410</color>
+    <color name="theme_five_main_activity_drawer_navlist_color">#ffb399</color>
+
+    <color name="theme_five_drawer_background_layout_color">#ffb399</color>
+    <color name="theme_five_drawer_title_color">#ffffff</color>
+    <color name="theme_five_drawer_subtitle_color">#ffffff</color>
+
+    <color name="theme_five_item_view_date_color">#ffffff</color>
+    <color name="theme_five_item_view_time_color">#ffffff</color>
+    <color name="theme_five_item_view_description_color">#ffffff</color>
+
+</resources>

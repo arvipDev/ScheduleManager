@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="versionaru.com.schedulemanageradvanced"
+android:versionCode = "1"
+android:versionName = "V_1.1">
+
+<!-- access SD -->
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+<application
+    android:allowBackup="true"
+    android:icon="@drawable/app_icon"
+    android:label="@string/app_name"
+    android:theme="@style/AppTheme">
+
+    <activity
+        android:name="versionaru.com.schedulemanageradvanced.MainActivity"
+        android:configChanges="orientation|screenSize"
+        android:label="@string/app_name" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity
+        android:name="versionaru.com.schedulemanageradvanced.AddEvent"
+        android:label="@string/title_activity_detail_schedule"
+        android:configChanges="orientation|screenSize">
+        <intent-filter>
+            <action android:name="android.intent.action.ADDSCHEDULE" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+    <activity
+        android:name="versionaru.com.schedulemanageradvanced.EventDetails"
+        android:label="@string/title_activity_event_details"
+        android:configChanges="orientation|screenSize">
+        <intent-filter>
+            <action android:name="android.intent.action.EVENTDETAILS" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <!-- Will not be called unless the application explicitly enables it -->
+
+</application>
+
+</manifest>
+
